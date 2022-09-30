@@ -1,5 +1,15 @@
 /*
-Herencia niheritance}
+TP4 - "Programando con Objetos, una aproximación" 
+
+//Tecnologia Multimedial 1//
+
+Alumno: Matias Rossetti
+Docente: Matias Jordan Lauregui
+Fecha: 29 de Octubre del año 2022
+
+Paisaje Interactivo: "Viajando por la autopista"
+
+Link al video: https://www.youtube.com/watch?v=D-UP-xfyFhQ
  */
 
 Autopista bmw3;
