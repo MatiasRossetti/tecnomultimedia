@@ -1,4 +1,9 @@
-//Link al Video: https://youtu.be/9L3BJMtg3Ug
+/* TP5 - RECUPERATORIO
+Alumno: Matias Rossetti
+Legajo: 83641/4
+
+link al video: https://youtu.be/jfy8Z4qI-6o
+*/
 // Pantalla Principal
 
 Juego nuevaPartida;
